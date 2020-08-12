@@ -1,0 +1,11 @@
+acr-criteria-app/node_modules/**/*
+acr-criteria-app/.expo/*
+acri-criteria-app/npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+# macOS
+.DS_Store
