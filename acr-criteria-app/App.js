@@ -10,6 +10,18 @@ import {
 import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
 import { SearchBar } from 'react-native-elements';
+import { AppLoading } from 'expo';
+
+const FlexSearch = require('flexsearch/flexsearch.js')
+const Index = FlexSearch.create({
+	tokenize: "forward",
+	cache: true,
+	depth: 3,
+	resolution: 9,
+	encode: "balance"
+});
+const _DELIMITER = " $$$$ "
+_INDEX_TO_DOCUMENT = {}
 
 import Criteria from './data/criteria.json';
 
@@ -17,14 +29,13 @@ class TableScreen extends React.Component {
 	constructor(props) {
 		super(props)
 		this.payload = props.route.params.payload;
-		console.log(this.payload);
 	}
 	render() {
 		const data = this.payload.recommendation_table;
 		return <ScrollView style={{flex: 1, flexDirection: "column", paddingTop: 10, paddingLeft: 20, paddingRight: 20, paddingBottom: 10}}>
 			<Text style={{fontSize: 20, fontWeight: "bold", marginBottom: 10, textAlign: "center"}}>{this.payload.variant}</Text>
 			{(() => {
-				return data.map((item) => {
+				return data.map((item, index) => {
 					let color = "#AAFFAA";
 					if (item["recommendation"].indexOf("not") !== -1) {
 						color = "#FFAAAA";
@@ -32,7 +43,7 @@ class TableScreen extends React.Component {
 					if (item["recommendation"].indexOf("May") !== -1) {
 						color = "#FFFFAA";
 					}
-					return <View style={{flex: 1, paddingTop: 8, paddingBottom: 8, paddingLeft: 15, paddingRight: 15, backgroundColor: color, flexDirection: "row"}}>
+					return <View key={index} style={{flex: 1, paddingTop: 8, paddingBottom: 8, paddingLeft: 15, paddingRight: 15, backgroundColor: color, flexDirection: "row"}}>
 						<View style={{flex: 0.5}}><Text>{item["studyName"]}</Text></View>
 						<View style={{flex: 0.5}}><Text>{item["recommendation"]}</Text></View>
 					</View>
@@ -52,33 +63,36 @@ class HomeScreen extends React.Component {
 		}
 	}
 	_generateDataFromQuery = (query) => {
-		console.log(query);
 		if (!query || query.length < 2) {
 			return [];
 		}
-		var results = [];
-		id = 0;
-		for (var system_id in Criteria["systems"]) {
-			const system = Criteria["systems"][system_id]["name"];
-			for (var complaint_id in Criteria["systems"][system_id]["complaints"]) {
-				const complaint = Criteria["systems"][system_id]["complaints"][complaint_id]["name"];
-				const variants = [];
-				for (var variant_id in Criteria["systems"][system_id]["complaints"][complaint_id]["variants"]) {
-					const variant = Criteria["systems"][system_id]["complaints"][complaint_id]["variants"][variant_id]["name"];
-					variants.push({
+		let index_keys = Index.search({
+			query: query,
+			suggest: true
+		});
+		let title_to_idx = {};
+		let results = [];
+		let id = 0;
+		for (let i = 0; i < index_keys.length; i++) {
+			let key = index_keys[i];
+			let [system, complaint, variant] = _INDEX_TO_DOCUMENT[key].split(_DELIMITER)
+			let title = system + " > " + complaint;
+			if (!(title in title_to_idx)) {
+				title_to_idx[title] = results.length
+				results.push({
+					id: id++,
+					title: title,
+					data: [{
 						variant: variant,
-						recommendation_table: Criteria["systems"][system_id]["complaints"][complaint_id]["variants"][variant_id]["recommendation_table"]
-					});
-				}
-				if (complaint.toLowerCase().indexOf(query.toLowerCase()) !== -1) {
-					results.push({
-						id: id++,
-						title: system + " > " + complaint,
-						data: variants
-					});
-				}
-				
-			} 
+						recommendation_table: Criteria[system][complaint][variant]
+					}]
+				});
+			} else {
+				results[title_to_idx[title]].data.push({
+					variant: variant,
+					recommendation_table: Criteria[system][complaint][variant]
+				})
+			}
 		}
 		return results;
 	}
@@ -101,7 +115,17 @@ class HomeScreen extends React.Component {
 	}
 
 	_renderSectionHeader = ({section, index, separators}) => {
-		return <Text>{section.title}</Text>
+		return <View style={{
+			flex: 1,
+			flexDirection: "row",
+			paddingLeft: 10, 
+			paddingRight: 10, 
+			paddingTop: 5, 
+			paddingBottom: 5, 
+			backgroundColor: "wheat", 
+			color: "black"}}>
+				<Text style={{fontSize: 15, fontWeight: "bold"}}>{section.title}</Text>
+		</View>
 	}
 
 	render() {
@@ -126,13 +150,40 @@ class HomeScreen extends React.Component {
 
 const Stack = createStackNavigator();
 
-export default function App() {
-  return (
-	<NavigationContainer>
-      <Stack.Navigator>
-        <Stack.Screen name="Home" options={{ title: "ACR Appropriateness Criteria Search" }} component={HomeScreen} />
-        <Stack.Screen name="Table" options={{ title: "" }} component={TableScreen} />
-      </Stack.Navigator>
-    </NavigationContainer>
-  );
+export default class App extends React.Component {
+  constructor(props) {
+	super(props)
+	this.state = {
+		appIsReady: false
+	}
+  }
+  componentDidMount() {
+  	id = 0;
+	for (var system in Criteria) {
+		for (var complaint in Criteria[system]) {
+			for (var variant in Criteria[system][complaint]) {
+			let index_to_add = system + _DELIMITER + complaint + _DELIMITER + variant;
+				_INDEX_TO_DOCUMENT[id] = index_to_add;
+				Index.add(id++, index_to_add);
+			}
+		} 
+	}
+	this.setState({
+		appIsReady: true
+	});
+  }
+  render() {
+  	if (this.state.appIsReady) {
+		return (
+			<NavigationContainer>
+			<Stack.Navigator>
+				<Stack.Screen name="Home" options={{ title: "ACR Appropriateness Criteria Search" }} component={HomeScreen} />
+				<Stack.Screen name="Table" options={{ title: "" }} component={TableScreen} />
+			</Stack.Navigator>
+			</NavigationContainer>
+		);
+	} else {
+		return <AppLoading />
+	}
+  }
 }
