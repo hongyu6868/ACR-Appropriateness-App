@@ -1,7 +1,7 @@
 import * as React from 'react';
 import { 
 	Button,
-	FlatList,
+	SectionList,
 	ScrollView,
 	Text,
 	TouchableOpacity,
@@ -16,24 +16,25 @@ import Criteria from './data/criteria.json';
 class TableScreen extends React.Component {
 	constructor(props) {
 		super(props)
-		this.criteriaKey = props.route.params.criteriaKey;
+		this.payload = props.route.params.payload;
+		console.log(this.payload);
 	}
 	render() {
-		const data = Criteria[this.criteriaKey];
+		const data = this.payload.recommendation_table;
 		return <ScrollView style={{flex: 1, flexDirection: "column", paddingTop: 10, paddingLeft: 20, paddingRight: 20, paddingBottom: 10}}>
-			<Text style={{fontSize: 20, fontWeight: "bold", marginBottom: 10, textAlign: "center"}}>{this.criteriaKey}</Text>
+			<Text style={{fontSize: 20, fontWeight: "bold", marginBottom: 10, textAlign: "center"}}>{this.payload.variant}</Text>
 			{(() => {
 				return data.map((item) => {
 					let color = "#AAFFAA";
-					if (item[1].indexOf("not") !== -1) {
+					if (item["recommendation"].indexOf("not") !== -1) {
 						color = "#FFAAAA";
 					}
-					if (item[1].indexOf("May") !== -1) {
+					if (item["recommendation"].indexOf("May") !== -1) {
 						color = "#FFFFAA";
 					}
 					return <View style={{flex: 1, paddingTop: 8, paddingBottom: 8, paddingLeft: 15, paddingRight: 15, backgroundColor: color, flexDirection: "row"}}>
-						<View style={{flex: 0.5}}><Text>{item[0]}</Text></View>
-						<View style={{flex: 0.5}}><Text>{item[1]}</Text></View>
+						<View style={{flex: 0.5}}><Text>{item["studyName"]}</Text></View>
+						<View style={{flex: 0.5}}><Text>{item["recommendation"]}</Text></View>
 					</View>
 				});
 			})()}
@@ -57,13 +58,27 @@ class HomeScreen extends React.Component {
 		}
 		var results = [];
 		id = 0;
-		for (var key in Criteria) {
-			if (key.toLowerCase().indexOf(query.toLowerCase()) !== -1) {
-				results.push({
-					id: id++,
-					header: key,
-				});
-			}
+		for (var system_id in Criteria["systems"]) {
+			const system = Criteria["systems"][system_id]["name"];
+			for (var complaint_id in Criteria["systems"][system_id]["complaints"]) {
+				const complaint = Criteria["systems"][system_id]["complaints"][complaint_id]["name"];
+				const variants = [];
+				for (var variant_id in Criteria["systems"][system_id]["complaints"][complaint_id]["variants"]) {
+					const variant = Criteria["systems"][system_id]["complaints"][complaint_id]["variants"][variant_id]["name"];
+					variants.push({
+						variant: variant,
+						recommendation_table: Criteria["systems"][system_id]["complaints"][complaint_id]["variants"][variant_id]["recommendation_table"]
+					});
+				}
+				if (complaint.toLowerCase().indexOf(query.toLowerCase()) !== -1) {
+					results.push({
+						id: id++,
+						title: system + " > " + complaint,
+						data: variants
+					});
+				}
+				
+			} 
 		}
 		return results;
 	}
@@ -77,13 +92,18 @@ class HomeScreen extends React.Component {
 			query: ""
 		});
 	}
-	_renderSearchResult = ({item, index, separators}) => {
-		return <TouchableOpacity onPress={() => {this.props.navigation.push("Table", {criteriaKey: item.header})}}>
+	_renderSearchResult = ({item, index, section, separators}) => {
+		return <TouchableOpacity onPress={() => {this.props.navigation.push("Table", {payload: item})}}>
 			<View key={item.id} style={{flex: 1, flexDirection: "row", paddingTop: 10, paddingBottom: 10, paddingLeft: 20, paddingRight: 20}}>
-				<Text>{item.header}</Text>
+				<Text>{item.variant}</Text>
 			</View>
 		</TouchableOpacity>
 	}
+
+	_renderSectionHeader = ({section, index, separators}) => {
+		return <Text>{section.title}</Text>
+	}
+
 	render() {
 		return <View style={{flex: 1, flexDirection: "column"}}>
 			<SearchBar
@@ -94,10 +114,11 @@ class HomeScreen extends React.Component {
 				placeholder="Search..."
 				value={this.state.query}
 			/>
-			<FlatList
-				data={this._generateDataFromQuery(this.state.query)}
-				renderItem={this._renderSearchResult}
+			<SectionList
+				sections={this._generateDataFromQuery(this.state.query)}
 				keyExtractor={(item, index) => index.toString()}
+				renderItem={this._renderSearchResult}
+				renderSectionHeader={this._renderSectionHeader}
 			/>
 		</View>
 	}
