@@ -1,0 +1,3596 @@
+{
+    "Head Trauma, no Loss of Consciousness - Amnesia, plus one Serious Head Trauma Feature #2": {
+        "Head Trauma, \n No LOC-Amnesia\n 1+ Serious HT Feature #2 | Prior: CT. | Contraindication: MR.": [
+            {
+                "studyName": "CT Head wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "CT Head w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CT Head wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Neck", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Head", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTV Head", 
+                "recommendation": "Inappropriate"
+            }
+        ], 
+        "Head Trauma, \n No LOC-Amnesia\n No Serious HT Feature #2": [
+            {
+                "studyName": "CT Head w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CT Head wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CT Head wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Neck", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Head", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTV Head", 
+                "recommendation": "Inappropriate"
+            }
+        ], 
+        "Head Trauma, \n No LOC-Amnesia, \n 1+ Serious HT Feature #2 | Prior: CT.": [
+            {
+                "studyName": "CT Head wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "MR Brain wo", 
+                "recommendation": "Appropriate"
+            }, 
+            {
+                "studyName": "CT Head w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CT Head wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Neck", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Head", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTV Head", 
+                "recommendation": "Inappropriate"
+            }
+        ], 
+        "Head Trauma, \n No LOC-Amnesia\n 1+ Serious HT Feature #2": [
+            {
+                "studyName": "CT Head wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "CT Head w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CT Head wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Neck", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Head", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTV Head", 
+                "recommendation": "Inappropriate"
+            }
+        ]
+    }, 
+    "Meningitis, Known or Suspected": {
+        "Meningitis Known or Suspected | Contraindication: IOD.": [
+            {
+                "studyName": "CT Head wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "MR Brain wwo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "MR Brain wo", 
+                "recommendation": "Appropriate"
+            }, 
+            {
+                "studyName": "CT Head w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CT Head wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Neck", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Head", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTV Head", 
+                "recommendation": "Inappropriate"
+            }
+        ], 
+        "HA, Meningitis Known or Suspected | Contraindication: GAD\n IOD.": [
+            {
+                "studyName": "CT Head wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "MR Brain wo", 
+                "recommendation": "Appropriate"
+            }, 
+            {
+                "studyName": "CT Head w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CT Head wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Neck", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Head", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTV Head", 
+                "recommendation": "Inappropriate"
+            }
+        ], 
+        "Meningitis Known or Suspected | Contraindication: MR.": [
+            {
+                "studyName": "CT Head wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "CT Head wwo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "CT Head w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Neck", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Head", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTV Head", 
+                "recommendation": "Inappropriate"
+            }
+        ], 
+        "Meningitis Known or Suspected": [
+            {
+                "studyName": "CT Head wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "MR Brain wwo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "CT Head wwo", 
+                "recommendation": "Appropriate"
+            }, 
+            {
+                "studyName": "MR Brain wo", 
+                "recommendation": "Appropriate"
+            }, 
+            {
+                "studyName": "CT Head w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Neck", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Head", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTV Head", 
+                "recommendation": "Inappropriate"
+            }
+        ], 
+        "Meningitis Known or Suspected | Contraindication: MR IOD.": [
+            {
+                "studyName": "CT Head wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "CT Head w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CT Head wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Neck", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Head", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTV Head", 
+                "recommendation": "Inappropriate"
+            }
+        ], 
+        "Meningitis Known or Suspected | Contraindication: GAD.": [
+            {
+                "studyName": "CT Head wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "MR Brain wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "CT Head wwo", 
+                "recommendation": "Appropriate"
+            }, 
+            {
+                "studyName": "CT Head w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Neck", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Head", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTV Head", 
+                "recommendation": "Inappropriate"
+            }
+        ]
+    }, 
+    "Headache, Serious Headache Features": {
+        "HA, Serious Feature": [
+            {
+                "studyName": "CT Head wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "MR Brain wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "MR Brain wwo", 
+                "recommendation": "Appropriate"
+            }, 
+            {
+                "studyName": "CT Head w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CT Head wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Neck", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Head", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTV Head", 
+                "recommendation": "Inappropriate"
+            }
+        ], 
+        "HA, Serious Feature | Contraindication: GAD.": [
+            {
+                "studyName": "CT Head wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "MR Brain wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "CT Head w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CT Head wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Neck", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Head", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTV Head", 
+                "recommendation": "Inappropriate"
+            }
+        ], 
+        "HA, Serious Feature | Contraindication: MR.": [
+            {
+                "studyName": "CT Head wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "CT Head w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CT Head wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Neck", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Head", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTV Head", 
+                "recommendation": "Inappropriate"
+            }
+        ], 
+        "No Serious Feature": [
+            {
+                "studyName": "CT Head w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CT Head wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CT Head wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Neck", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Head", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTV Head", 
+                "recommendation": "Inappropriate"
+            }
+        ]
+    }, 
+    "Headache, Cancer, Known or Suspected": {
+        "Cancer Known or Suspected | Contraindication: GAD.": [
+            {
+                "studyName": "CT Head wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "CT Head wwo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "MR Brain wo", 
+                "recommendation": "Appropriate"
+            }, 
+            {
+                "studyName": "CT Head w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Neck", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Head", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTV Head", 
+                "recommendation": "Inappropriate"
+            }
+        ], 
+        "Cancer Known or Suspected | Contraindication: GAD\n IOD.": [
+            {
+                "studyName": "CT Head wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "MR Brain wo", 
+                "recommendation": "Appropriate"
+            }, 
+            {
+                "studyName": "CT Head w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CT Head wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Neck", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Head", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTV Head", 
+                "recommendation": "Inappropriate"
+            }
+        ], 
+        "Cancer Known or Suspected | Contraindication: MR\n IOD.": [
+            {
+                "studyName": "CT Head wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "CT Head w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CT Head wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Neck", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Head", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTV Head", 
+                "recommendation": "Inappropriate"
+            }
+        ], 
+        "Cancer Known or Suspected | Contraindication: MR.": [
+            {
+                "studyName": "CT Head wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "CT Head wwo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "CT Head w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Neck", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Head", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTV Head", 
+                "recommendation": "Inappropriate"
+            }
+        ], 
+        "Cancer Known or Suspected | Contraindication: IOD.": [
+            {
+                "studyName": "CT Head wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "MR Brain wwo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "MR Brain wo", 
+                "recommendation": "Appropriate"
+            }, 
+            {
+                "studyName": "CT Head w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CT Head wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Neck", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Head", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTV Head", 
+                "recommendation": "Inappropriate"
+            }
+        ], 
+        "Cancer Known or Suspected": [
+            {
+                "studyName": "CT Head wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "CT Head wwo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "MR Brain wwo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "MR Brain wo", 
+                "recommendation": "Appropriate"
+            }, 
+            {
+                "studyName": "CT Head w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Neck", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Head", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTV Head", 
+                "recommendation": "Inappropriate"
+            }
+        ]
+    }, 
+    "Not Headache, Syncope, Stroke, Sinusitis or Trauma, AUC Not Applicable": {
+        "Not headache, syncope, stroke, sinusitis or trauma": [
+            {
+                "studyName": "CT Head w", 
+                "recommendation": "Not applicable"
+            }, 
+            {
+                "studyName": "CT Head wo", 
+                "recommendation": "Not applicable"
+            }, 
+            {
+                "studyName": "CT Head wwo", 
+                "recommendation": "Not applicable"
+            }, 
+            {
+                "studyName": "MR Brain w", 
+                "recommendation": "Not applicable"
+            }, 
+            {
+                "studyName": "MR Brain wo", 
+                "recommendation": "Not applicable"
+            }, 
+            {
+                "studyName": "MR Brain wwo", 
+                "recommendation": "Not applicable"
+            }, 
+            {
+                "studyName": "MRA Brain w", 
+                "recommendation": "Not applicable"
+            }, 
+            {
+                "studyName": "MRA Brain wo", 
+                "recommendation": "Not applicable"
+            }, 
+            {
+                "studyName": "MRA Neck w", 
+                "recommendation": "Not applicable"
+            }, 
+            {
+                "studyName": "MRA Neck wo", 
+                "recommendation": "Not applicable"
+            }, 
+            {
+                "studyName": "MRV Brain w", 
+                "recommendation": "Not applicable"
+            }, 
+            {
+                "studyName": "MRV Brain wo", 
+                "recommendation": "Not applicable"
+            }, 
+            {
+                "studyName": "MRV Brain wwo", 
+                "recommendation": "Not applicable"
+            }, 
+            {
+                "studyName": "CTA Neck", 
+                "recommendation": "Not applicable"
+            }, 
+            {
+                "studyName": "CTA Head", 
+                "recommendation": "Not applicable"
+            }, 
+            {
+                "studyName": "CTV Head", 
+                "recommendation": "Not applicable"
+            }
+        ]
+    }, 
+    "Headache, Aneurysm, Known or Suspected": {
+        "HA, Aneurysm": [
+            {
+                "studyName": "CT Head wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "MR Brain wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "MRA Brain wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "CTA Head", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "CT Head w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CT Head wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Neck", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTV Head", 
+                "recommendation": "Inappropriate"
+            }
+        ], 
+        "HA, Aneurysm | Contraindication: IOD.": [
+            {
+                "studyName": "CT Head wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "MR Brain wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "MRA Brain wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "CT Head w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CT Head wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Neck", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Head", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTV Head", 
+                "recommendation": "Inappropriate"
+            }
+        ], 
+        "HA, Aneurysm | Contraindication: MR.": [
+            {
+                "studyName": "CT Head wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "CTA Head", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "CT Head w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CT Head wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Neck", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTV Head", 
+                "recommendation": "Inappropriate"
+            }
+        ], 
+        "HA, Aneurysm | Contraindication: MR IOD.": [
+            {
+                "studyName": "CT Head wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "CT Head w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CT Head wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Neck", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Head", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTV Head", 
+                "recommendation": "Inappropriate"
+            }
+        ]
+    }, 
+    "Head Trauma, Loss of Consciousness - Amnesia, Head Trauma Feature #1": {
+        "Head Trauma, LOC-Amnesia, 1+ Serious HT Feature #1 | Prior: CT.": [
+            {
+                "studyName": "CT Head wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "MR Brain wo", 
+                "recommendation": "Appropriate"
+            }, 
+            {
+                "studyName": "CT Head w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CT Head wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Neck", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Head", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTV Head", 
+                "recommendation": "Inappropriate"
+            }
+        ], 
+        "Head Trauma, LOC-Amnesia, 1+ \n No Serious HT Feature #1": [
+            {
+                "studyName": "CT Head w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CT Head wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CT Head wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Neck", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Head", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTV Head", 
+                "recommendation": "Inappropriate"
+            }
+        ], 
+        "Head Trauma, LOC-Amnesia, 1+ Serious HT Feature #1": [
+            {
+                "studyName": "CT Head wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "CT Head w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CT Head wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Neck", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Head", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTV Head", 
+                "recommendation": "Inappropriate"
+            }
+        ], 
+        "Head Trauma, LOC-Amnesia, 1+ Serious HT Feature #1 | Prior: CT. | Contraindication: MR.": [
+            {
+                "studyName": "CT Head wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "CT Head w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CT Head wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Neck", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Head", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTV Head", 
+                "recommendation": "Inappropriate"
+            }
+        ]
+    }, 
+    "Headache, Arteriovenous Malformation (AVM), Known or Suspected": {
+        "AVM Known or Suspected | Contraindication: GAD\n IOD.": [
+            {
+                "studyName": "CT Head wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "MR Brain wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "MRA Brain wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "CT Head w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CT Head wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Neck", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Head", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTV Head", 
+                "recommendation": "Inappropriate"
+            }
+        ], 
+        "AVM Known or Suspected | Contraindication: MR.": [
+            {
+                "studyName": "CT Head wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "CTA Head", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "CT Head w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CT Head wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Neck", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTV Head", 
+                "recommendation": "Inappropriate"
+            }
+        ], 
+        "AVM Known or Suspected": [
+            {
+                "studyName": "CT Head wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "MR Brain wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "MRA Brain wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "CTA Head", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "MR Brain wwo", 
+                "recommendation": "Appropriate"
+            }, 
+            {
+                "studyName": "CT Head w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CT Head wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Neck", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTV Head", 
+                "recommendation": "Inappropriate"
+            }
+        ], 
+        "AVM Known or Suspected | Contraindication: MR\n IOD.": [
+            {
+                "studyName": "CT Head wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "CT Head w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CT Head wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Neck", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Head", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTV Head", 
+                "recommendation": "Inappropriate"
+            }
+        ], 
+        "AVM Known or Suspected | Contraindication: GAD.": [
+            {
+                "studyName": "CT Head wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "MR Brain wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "MRA Brain wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "CTA Head", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "CT Head w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CT Head wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Neck", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTV Head", 
+                "recommendation": "Inappropriate"
+            }
+        ], 
+        "AVM Known or Suspected | Contraindication: IOD.": [
+            {
+                "studyName": "CT Head wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "MR Brain wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "MRA Brain wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "MR Brain wwo", 
+                "recommendation": "Appropriate"
+            }, 
+            {
+                "studyName": "CT Head w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CT Head wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Neck", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Head", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTV Head", 
+                "recommendation": "Inappropriate"
+            }
+        ]
+    }, 
+    "Head Trauma, Penetrating Injury or Glasgow Coma Scale less than 15": {
+        "Head trauma, Penetrating or GCS<15 | Contraindication: MR.": [
+            {
+                "studyName": "CT Head wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "CT Head w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CT Head wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Neck", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Head", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTV Head", 
+                "recommendation": "Inappropriate"
+            }
+        ], 
+        "Head Trauma, Penetrating or GCS<15": [
+            {
+                "studyName": "CT Head wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "MR Brain wo", 
+                "recommendation": "Appropriate"
+            }, 
+            {
+                "studyName": "CT Head w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CT Head wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Neck", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Head", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTV Head", 
+                "recommendation": "Inappropriate"
+            }
+        ]
+    }, 
+    "Headache, Abscess, Known or Suspected": {
+        "HA, Abscess Known or Suspected": [
+            {
+                "studyName": "CT Head wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "MR Brain wwo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "CT Head wwo", 
+                "recommendation": "Appropriate"
+            }, 
+            {
+                "studyName": "MR Brain wo", 
+                "recommendation": "Appropriate"
+            }, 
+            {
+                "studyName": "CT Head w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Neck", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Head", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTV Head", 
+                "recommendation": "Inappropriate"
+            }
+        ], 
+        "HA, Abscess Known or Suspected | Contraindication: GAD\n IOD.": [
+            {
+                "studyName": "CT Head wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "MR Brain wo", 
+                "recommendation": "Appropriate"
+            }, 
+            {
+                "studyName": "CT Head w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CT Head wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Neck", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Head", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTV Head", 
+                "recommendation": "Inappropriate"
+            }
+        ], 
+        "HA, Abscess Known or Suspected | Contraindication: IOD.": [
+            {
+                "studyName": "CT Head wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "MR Brain wwo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "MR Brain wo", 
+                "recommendation": "Appropriate"
+            }, 
+            {
+                "studyName": "CT Head w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CT Head wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Neck", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Head", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTV Head", 
+                "recommendation": "Inappropriate"
+            }
+        ], 
+        "HA, Abscess Known or Suspected | Contraindication: MR.": [
+            {
+                "studyName": "CT Head wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "CT Head wwo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "CT Head w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Neck", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Head", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTV Head", 
+                "recommendation": "Inappropriate"
+            }
+        ], 
+        "HA, Abscess Known or Suspected | Contraindication: MR IOD.": [
+            {
+                "studyName": "CT Head wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "CT Head w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CT Head wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Neck", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Head", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTV Head", 
+                "recommendation": "Inappropriate"
+            }
+        ], 
+        "HA, Abscess Known or Suspected | Contraindication: GAD.": [
+            {
+                "studyName": "CT Head wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "MR Brain wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "CT Head wwo", 
+                "recommendation": "Appropriate"
+            }, 
+            {
+                "studyName": "CT Head w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Neck", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Head", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTV Head", 
+                "recommendation": "Inappropriate"
+            }
+        ]
+    }, 
+    "Head Trauma, more than 24 hours ago": {
+        "Head Trauma, >24 hours": [
+            {
+                "studyName": "CT Head w", 
+                "recommendation": "Not applicable"
+            }, 
+            {
+                "studyName": "CT Head wo", 
+                "recommendation": "Not applicable"
+            }, 
+            {
+                "studyName": "CT Head wwo", 
+                "recommendation": "Not applicable"
+            }, 
+            {
+                "studyName": "MR Brain w", 
+                "recommendation": "Not applicable"
+            }, 
+            {
+                "studyName": "MR Brain wo", 
+                "recommendation": "Not applicable"
+            }, 
+            {
+                "studyName": "MR Brain wwo", 
+                "recommendation": "Not applicable"
+            }, 
+            {
+                "studyName": "MRA Brain w", 
+                "recommendation": "Not applicable"
+            }, 
+            {
+                "studyName": "MRA Brain wo", 
+                "recommendation": "Not applicable"
+            }, 
+            {
+                "studyName": "MRA Neck w", 
+                "recommendation": "Not applicable"
+            }, 
+            {
+                "studyName": "MRA Neck wo", 
+                "recommendation": "Not applicable"
+            }, 
+            {
+                "studyName": "MRV Brain w", 
+                "recommendation": "Not applicable"
+            }, 
+            {
+                "studyName": "MRV Brain wo", 
+                "recommendation": "Not applicable"
+            }, 
+            {
+                "studyName": "MRV Brain wwo", 
+                "recommendation": "Not applicable"
+            }, 
+            {
+                "studyName": "CTA Neck", 
+                "recommendation": "Not applicable"
+            }, 
+            {
+                "studyName": "CTA Head", 
+                "recommendation": "Not applicable"
+            }, 
+            {
+                "studyName": "CTV Head", 
+                "recommendation": "Not applicable"
+            }
+        ]
+    }, 
+    "Sinusitis, Known or Suspected": {
+        "Sinusitis": [
+            {
+                "studyName": "CT Head w", 
+                "recommendation": "Not applicable"
+            }, 
+            {
+                "studyName": "CT Head wo", 
+                "recommendation": "Not applicable"
+            }, 
+            {
+                "studyName": "CT Head wwo", 
+                "recommendation": "Not applicable"
+            }, 
+            {
+                "studyName": "MR Brain w", 
+                "recommendation": "Not applicable"
+            }, 
+            {
+                "studyName": "MR Brain wo", 
+                "recommendation": "Not applicable"
+            }, 
+            {
+                "studyName": "MR Brain wwo", 
+                "recommendation": "Not applicable"
+            }, 
+            {
+                "studyName": "MRA Brain w", 
+                "recommendation": "Not applicable"
+            }, 
+            {
+                "studyName": "MRA Brain wo", 
+                "recommendation": "Not applicable"
+            }, 
+            {
+                "studyName": "MRA Neck w", 
+                "recommendation": "Not applicable"
+            }, 
+            {
+                "studyName": "MRA Neck wo", 
+                "recommendation": "Not applicable"
+            }, 
+            {
+                "studyName": "MRV Brain w", 
+                "recommendation": "Not applicable"
+            }, 
+            {
+                "studyName": "MRV Brain wo", 
+                "recommendation": "Not applicable"
+            }, 
+            {
+                "studyName": "MRV Brain wwo", 
+                "recommendation": "Not applicable"
+            }, 
+            {
+                "studyName": "CTA Neck", 
+                "recommendation": "Not applicable"
+            }, 
+            {
+                "studyName": "CTA Head", 
+                "recommendation": "Not applicable"
+            }, 
+            {
+                "studyName": "CTV Head", 
+                "recommendation": "Not applicable"
+            }
+        ]
+    }, 
+    "Headache, Cerebral Venous Thrombus, Known or Suspected": {
+        "Cerebral Venous Thrombus": [
+            {
+                "studyName": "CT Head wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "MR Brain wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "MRV Brain w", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "MRV Brain wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "CTV Head", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "CT Head w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CT Head wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Neck", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Head", 
+                "recommendation": "Inappropriate"
+            }
+        ], 
+        "Cerebral Venous Thrombus | Contraindication: MR.": [
+            {
+                "studyName": "CT Head wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "CTV Head", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "CT Head w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CT Head wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Neck", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Head", 
+                "recommendation": "Inappropriate"
+            }
+        ], 
+        "Cerebral Venous Thrombus | Contraindication: GAD\n IOD.": [
+            {
+                "studyName": "CT Head wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "MR Brain wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "MRV Brain wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "CT Head w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CT Head wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Neck", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Head", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTV Head", 
+                "recommendation": "Inappropriate"
+            }
+        ], 
+        "Cerebral Venous Thrombus | Contraindication: IOD.": [
+            {
+                "studyName": "CT Head wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "MR Brain wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "MRV Brain w", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "MRV Brain wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "CT Head w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CT Head wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Neck", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Head", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTV Head", 
+                "recommendation": "Inappropriate"
+            }
+        ], 
+        "Cerebral Venous Thrombus | Contraindication: GAD.": [
+            {
+                "studyName": "CT Head wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "MR Brain wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "MRV Brain wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "CTV Head", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "CT Head w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CT Head wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Neck", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Head", 
+                "recommendation": "Inappropriate"
+            }
+        ], 
+        "Cerebral Venous Thrombus | Contraindication: MR\n IOD.": [
+            {
+                "studyName": "CT Head wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "CT Head w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CT Head wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Neck", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Head", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTV Head", 
+                "recommendation": "Inappropriate"
+            }
+        ]
+    }, 
+    "Stroke, Known, Suspected or New Onset": {
+        "Stroke": [
+            {
+                "studyName": "CT Head w", 
+                "recommendation": "Not applicable"
+            }, 
+            {
+                "studyName": "CT Head wo", 
+                "recommendation": "Not applicable"
+            }, 
+            {
+                "studyName": "CT Head wwo", 
+                "recommendation": "Not applicable"
+            }, 
+            {
+                "studyName": "MR Brain w", 
+                "recommendation": "Not applicable"
+            }, 
+            {
+                "studyName": "MR Brain wo", 
+                "recommendation": "Not applicable"
+            }, 
+            {
+                "studyName": "MR Brain wwo", 
+                "recommendation": "Not applicable"
+            }, 
+            {
+                "studyName": "MRA Brain w", 
+                "recommendation": "Not applicable"
+            }, 
+            {
+                "studyName": "MRA Brain wo", 
+                "recommendation": "Not applicable"
+            }, 
+            {
+                "studyName": "MRA Neck w", 
+                "recommendation": "Not applicable"
+            }, 
+            {
+                "studyName": "MRA Neck wo", 
+                "recommendation": "Not applicable"
+            }, 
+            {
+                "studyName": "MRV Brain w", 
+                "recommendation": "Not applicable"
+            }, 
+            {
+                "studyName": "MRV Brain wo", 
+                "recommendation": "Not applicable"
+            }, 
+            {
+                "studyName": "MRV Brain wwo", 
+                "recommendation": "Not applicable"
+            }, 
+            {
+                "studyName": "CTA Neck", 
+                "recommendation": "Not applicable"
+            }, 
+            {
+                "studyName": "CTA Head", 
+                "recommendation": "Not applicable"
+            }, 
+            {
+                "studyName": "CTV Head", 
+                "recommendation": "Not applicable"
+            }
+        ]
+    }, 
+    "Head Trauma, Evidence of Bleeding or Injury on Imaging": {
+        "Head Trauma, Evidence of Bleeding or Injury on Imaging": [
+            {
+                "studyName": "CT Head wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "MR Brain wo", 
+                "recommendation": "Appropriate"
+            }, 
+            {
+                "studyName": "CT Head w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CT Head wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Neck", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Head", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTV Head", 
+                "recommendation": "Inappropriate"
+            }
+        ], 
+        "Head Trauma, Evidence of Bleeding or Injury on Imaging | Contraindication: MR.": [
+            {
+                "studyName": "CT Head wo", 
+                "recommendation": "Appropriate Preferred"
+            }, 
+            {
+                "studyName": "CT Head w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CT Head wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MR Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRA Neck wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain w", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "MRV Brain wwo", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Neck", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTA Head", 
+                "recommendation": "Inappropriate"
+            }, 
+            {
+                "studyName": "CTV Head", 
+                "recommendation": "Inappropriate"
+            }
+        ]
+    }
+}
